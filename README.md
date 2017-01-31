@@ -2,6 +2,10 @@
 
 Graphviz extension of [Showdown](https://github.com/showdownjs/showdown).
 
+## Screenshot
+
+![img](res.png)
+
 ## Usage
 
 - download and include [Viz.js](https://github.com/mdaines/viz.js)
