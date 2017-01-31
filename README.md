@@ -1,6 +1,6 @@
 # showdown-viz
 
-Graphviz extension of [Showdown](https://github.com/showdownjs/showdown).
+Graphviz extension for [Showdown](https://github.com/showdownjs/showdown).
 
 ## Screenshot
 
