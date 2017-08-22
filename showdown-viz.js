@@ -7,7 +7,6 @@
 				filter: function(source) {
 					console.log("showdown-viz called")
 					var elements = $(source);
-					console.log($('pre'));
 					// elements = elements.getElementsByTagName('pre');
 					// var vizCodeElements = $('code.graphviz-parse');
 					// // console.log(source);
